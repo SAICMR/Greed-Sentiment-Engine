@@ -1,0 +1,9 @@
+vaderSentiment
+nltk
+spacy
+transformers
+requests
+praw
+tweepy
+yfinance
+pandas 
